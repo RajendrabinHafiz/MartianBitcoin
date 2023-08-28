@@ -8,7 +8,7 @@ function Timer({circleType, time, unit}) {
                 r="70"
                 cx="90"
                 cy="90"
-                className="fill-transparent stroke-[#f58e07] stroke-[6px]"
+                className="fill-transparent stroke-blue-400 stroke-[6px]"
             ></circle>
             <circle
                 r="70"
